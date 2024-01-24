@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Girish</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">Passionate MERN stack developer dedicated to crafting seamless user experiences and building scalable web applications. Committed to high-quality code, innovation, and pushing the boundaries of web development. Let's code something amazing together! 💻✨ #MERNStack #FullStackDeveloper</h3>
 
 
 
