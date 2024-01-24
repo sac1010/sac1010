@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m an experienced **MERN stack** developer
 
 - 👨‍💻 All of my projects are available at [https://sachingirish101.netlify.app/](https://sachingirish101.netlify.app/)
 
