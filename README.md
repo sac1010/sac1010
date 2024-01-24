@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sachingirish101@gmail.com**
 
-- 📄 Know about my experiences [https://sachingirish101.netlify.app/material-resume.pdf](https://sachingirish101.netlify.app/material-resume.pdf)
+- 📄 Know about my experiences [https://sachingirish101.netlify.app/material-resume.pdf](https://sachingirish101.netlify.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
